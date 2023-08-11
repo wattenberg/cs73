@@ -48,11 +48,11 @@ a:visited {
 
 #draft {
   color:  #f00;
-  font-size: 24pt;
+  font-size: 48pt;
   font-weight: 900;
   position: fixed;
   left: 0;
-  top: 10px;
+  top: 200px;
   padding-left: 0px;
   padding-top: 10px;
   transform: rotate(-30deg);
